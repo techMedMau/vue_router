@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["notFound"],{9703:function(n,t,e){"use strict";e.r(t);var o=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[e("h1",[n._v("Not Found")]),e("p",[n._v(" Going back "),e("router-link",{attrs:{to:{name:"Home"}}},[n._v("home")]),n._v(" ! ")],1)])},u=[],r={},a=r,l=e("2877"),c=Object(l["a"])(a,o,u,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=notFound.340d637a.js.map

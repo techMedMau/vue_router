@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["invoices"],{"51b0":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("h1",[n._v("Invoice")])},i=[],l={},o=l,s=t("2877"),u=Object(s["a"])(o,c,i,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=invoices.0be538e0.js.map

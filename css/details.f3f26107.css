@@ -1,0 +1,1 @@
+.go_back{display:flex}.button{border:0;background-color:pink;padding:.5rem 1rem;border-radius:5px;font-weight:700;color:#d10931;cursor:pointer}.cards,.details{display:flex}.details{padding:3%}.cards img{max-height:200px}.card{padding:0 20px;position:relative}.card_text{position:absolute;top:50%;left:10%;color:#fff;font-size:25px;font-weight:700;text-decoration:none}
